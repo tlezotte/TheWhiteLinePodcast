@@ -103,7 +103,7 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 	#	background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-    background-image: url(images/overlay.png), linear-gradient(45deg, #e0d7d8 15%, #38353e 85%);
+    background-image: url(images/overlay.png), linear-gradient(45deg, #6c7890 15%, #38353e 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3103,6 +3103,8 @@ input, select, textarea {
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
+					width: 10em;
+					height: 10em;
 				}
 
 		@media screen and (max-width: 1280px) {
@@ -3292,7 +3294,7 @@ input, select, textarea {
 			z-index: 10000;
 			background-image: url("../img/TheWhiteLine.png");
 			background-repeat: no-repeat;
-			background-size: 35px 35px;
+			background-size: 50px 50px;
 			background-position: 25px;
 		}
 
@@ -3566,7 +3568,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 3em 5em 3em 5em ;
 			border-top: solid 1px #dddddd;
 		}
 
