@@ -424,6 +424,7 @@ textarea {
 
 a:hover {
   color: #ffffff;
+  text-decoration: none;
 }
 
 strong,
