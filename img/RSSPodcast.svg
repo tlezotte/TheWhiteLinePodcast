@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 134 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="RSSPodcast">
+        <g id="Rectangle" transform="matrix(1,0,0,1,-0.22066,0)">
+            <path d="M133.75,8.25C133.75,3.835 130.165,0.25 125.75,0.25L8.25,0.25C3.835,0.25 0.25,3.835 0.25,8.25L0.25,25.75C0.25,30.165 3.835,33.75 8.25,33.75L125.75,33.75C130.165,33.75 133.75,30.165 133.75,25.75L133.75,8.25Z" style="fill:white;stroke:rgb(154,160,166);stroke-width:0.5px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-2.12851,-0.178342)">
+            <text x="35.973px" y="26.875px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:14.846px;fill:rgb(48,48,48);">RSS</text>
+            <text x="70.624px" y="26.875px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14.846px;fill:rgb(48,48,48);">Feed</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-1.17836,-0.198493)">
+            <text x="35.617px" y="12.799px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8.895px;fill:rgb(48,48,48);">Subscribe</text>
+            <text x="77.64px" y="12.799px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:8.895px;fill:rgb(48,48,48);">via</text>
+        </g>
+    </g>
+    <g transform="matrix(1.47035,0,0,1.47035,6.00165,5.24042)">
+        <path d="M2.002,11.999C0.895,11.999 -0.002,12.896 0,14C0,15.104 0.896,16.001 2.002,15.999C3.105,16.001 4.002,15.105 4,14C4.002,12.893 3.105,11.997 2.002,11.999Z" style="fill:rgb(48,48,48);fill-rule:nonzero;"/>
+        <path d="M2,0C0.896,0 0,0.896 0,2C0,3.104 0.896,4 2,4C7.514,4 12,8.486 12,14C12,15.104 12.896,16 14,16C15.104,16 16,15.104 16,14C16,6.28 9.72,0 2,0Z" style="fill:rgb(48,48,48);fill-rule:nonzero;"/>
+        <path d="M2,6C0.896,6 0,6.896 0,8C0,9.104 0.896,10 2,10C4.205,10 6,11.794 6,14C6,15.104 6.896,16 8,16C9.104,16 10,15.104 10,14C10,9.589 6.411,6 2,6Z" style="fill:rgb(48,48,48);fill-rule:nonzero;"/>
+    </g>
+</svg>
