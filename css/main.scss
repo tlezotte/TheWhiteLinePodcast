@@ -210,6 +210,35 @@ hr {
   }
 }
 
+.copyright, .credits {
+  color: #cccccc;
+  font-size: 10px;
+  display: block;
+  text-align: center;
+}
+.design {
+  color: #ccc !important;
+  font-size: 10px;
+  text-align: center;
+}
+
+/* social media */
+.twitter {
+  &:hover {
+    color: #00acee;
+  }
+}
+.facebook {
+  &:hover {
+    color: #3B5998;
+  }
+}
+.instagram {
+  &:hover {
+    color: #fbad50;
+  }
+}
+
 @media screen and (max-width: 1680px) {
   .row {
     display: -webkit-box;
