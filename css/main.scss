@@ -1391,6 +1391,14 @@ body.is-preload #header.alt {
   }
 }
 
+.design {
+  a {
+    &:hover {
+      color: #ffffff;
+    }
+  }
+}
+
 @media screen and (max-width: 1280px) {
   #footer {
     padding: 4em 4em 2em 4em;
