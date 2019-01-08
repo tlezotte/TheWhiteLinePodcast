@@ -1,6 +1,9 @@
 $black: #000000;
 $libsyn-green: #87A93A;
 $strava: #fc4c02;
+$twitter: #00acee;
+$facebook: #3B5998;
+$instagram: #fbad50;
 
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -230,17 +233,17 @@ hr {
 /* social media */
 .twitter {
   &:hover {
-    color: #00acee;
+    color: $twitter;
   }
 }
 .facebook {
   &:hover {
-    color: #3B5998;
+    color: $facebook;
   }
 }
 .instagram {
   &:hover {
-    color: #fbad50;
+    color: $instagram;
   }
 }
 
@@ -1402,14 +1405,6 @@ body.is-preload #header.alt {
       color: #ffffff;
     }
   }
-}
-
-a:not(.button):not(.comment-reply-link):focus,a:not(.button):not(.comment-reply-link):hover {
-  background: -webkit-gradient(linear,left top,right top,from($libsyn-green),to($black));
-  background: linear-gradient(to right,$libsyn-green,$black);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: none
 }
 
 @media screen and (max-width: 1280px) {
